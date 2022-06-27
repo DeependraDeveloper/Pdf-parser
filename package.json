@@ -1,0 +1,17 @@
+{
+  "name": "moolassign",
+  "version": "1.0.0",
+  "description": "Assignment completed",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18",
+    "pdf-parse": "^1.1.1"
+  }
+}
